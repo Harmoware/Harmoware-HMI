@@ -1,23 +1,8 @@
-<style type="text/css">
-.image-left {
-  display: block;
-  valign: middle;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
-}
-.image-right {
-  display: block;
-  valign: middle;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-.indented {
-  padding-left: 50pt;
-  padding-right: 50pt;
-}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+      type="text/css"
+      href="docs/style.css"
+/>
 
 # Harmoware-HMI 
 <img src="docs/hmi-logo.png" width="400" alt="Harmoware-HMI" class="image-right"> 
@@ -79,20 +64,23 @@ This software was developed and tested on the following environment:
 - Get the software
 ```
 $ cd $HOME
-$ git clone https://github.com/Harmoware/Harmoware-HMI.git
+$ git clone https://github.com/Harmoware/Harmoware-HMI.git --recurse-submodules
 ```
-- Autoware
+- Build Autoware
 ```
-$ cd ~/Harmoware-HMI/Autoware/ros/src
+$ cd ~/Harmoware-HMI/Autoware
+$ git submodule update --init --recursive
+$ git branch feature/Harmoware-HMI
+$ cd ros/src
 $ catkin_init_workspace
 $ cd ../
 $ ./catkin_make_release
 ```
-- HMI
+- Build HMI
 ```
 here are the commands to install
 ```
-- Gaze
+- Build Gaze
 ```
 here are the commands to install
 ```
