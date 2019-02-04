@@ -5,41 +5,42 @@
 />
 
 # Harmoware-HMI 
-<img src="docs/hmi-logo.png" width="400" alt="Harmoware-HMI" class="image-right"> 
+<img src="docs/driver-monitor.png" width="900" alt="Harmoware HMI" class="image-right">
 
 This repository holds the combined work of Nagoya University, Tokushima University and Aisin Seiki. 
 
 # Table of contents
 1. [Introduction](#introduction)
 2. [Driver monitoring](#monitor)
-3. [Installing](#install)
+3. [Connection configuration](#connections)
+4. [Installing](#install)
     1. [Environment](#environment)
     2. [How to Build](#build)
     3. [How to Start](#start)
     4. [Maps](#maps)
-2. [Videos](#videos)
+5. [Press releases](#videos)
 
 ## <a name="introduction"></a>Multimodal Human Machine Interaction for Autonomous Vehicle Control
 The implemented system combines autonomous driving software  [Autoware](https://github.com/CPFL/Autoware) (originally developed at Nagoya University, now under the [Autoware Foundation](https://www.autoware.org/)), with voice understanding and synthesis developed at Tokushima University, 3D gaze direction understanding and its relation with 3D world done at Nagoya University, all supported by a driver gesture recognition system developed at Aisin Seiki.
 
 The following functions are implemented in our system:
 
-* <div><p><img src="docs/auto-departure.png" width="150" alt="Automatic departure" class="image-left">Automatic departure using verbal interaction to specify destination and gesture recognition (nodding) to confirm or negate destinations suggested by the car. After destination is confirmed the vehicle performs path planning to find the best route towards the destination and engages autonomous driving mode.</p></div>
+* <div><p>Automatic departure using verbal interaction to specify destination and gesture recognition (nodding) to confirm or negate destinations suggested by the car. After destination is confirmed the vehicle performs path planning to find the best route towards the destination and engages autonomous driving mode.</p></div>
 
-* <div><p><img src="docs/voice-speed-control.png" width="150" alt="Voice speed control" class="image-left">Voice speed control allows using verbal commands such as "slow down" or "speed up" to effectively control the vehicle speed. Local planning software takes the user speed control commands into consideration to generate corresponding speed profiles for the vehicle.
+* <div><p>Voice speed control allows using verbal commands such as "slow down" or "speed up" to effectively control the vehicle speed. Local planning software takes the user speed control commands into consideration to generate corresponding speed profiles for the vehicle.
 </p></div>
 
-* <div><p><img src="docs/voice-route-change.png" width="150" alt="Voice route change" class="image-left">Dynamic on-route changes using verbal commands such as "turn right" or "go straight", with corresponding re-planning towards the destination. Route change execution is not inmediate but requires a margin distance for safety considerations. Voice route change can be combined with voice speed control and others.</p></div>
+* <div><p>Dynamic on-route changes using verbal commands such as "turn right" or "go straight", with corresponding re-planning towards the destination. Route change execution is not inmediate but requires a margin distance for safety considerations. Voice route change can be combined with voice speed control and others.</p></div>
 
-* <div><p><img src="docs/multimodal-guidance.png" width="150" alt="Multimodal guidance" class="image-left">Interaction with vehicle is enhanced through voice and gaze to inquire the system about the immediate surrounding environment. Driver can as the vehicle questions such as "what is that?", taking into consideration current gaze direction; the car uses 3D gaze information together with semantic 3D maps to reply to the driver about objects.</p></div>
+* <div><p>Interaction with vehicle is enhanced through voice and gaze to inquire the system about the immediate surrounding environment. Driver can as the vehicle questions such as "what is that?", taking into consideration current gaze direction; the car uses 3D gaze information together with semantic 3D maps to reply to the driver about objects.</p></div>
 
-* <div><p><img src="docs/auto-parking.png" width="150" alt="Automatic parking" class="image-left">Similarly, voice and gaze can be used to specify where the car has to park. The driver issue commands such as "stop over there" to the vehicle takes into account the gaze direction to execute the stop command.</p></div>
+* <div><p>Similarly, voice and gaze can be used to specify where the car has to park. The driver issue commands such as "stop over there" to the vehicle takes into account the gaze direction to execute the stop command.</p></div>
 
-<br><br>
+<br>
 ## <a name="monitor"></a>Driver monitor system
-<div><img src="docs/driver-monitor.png" width="900" alt="Driver monitor" class="image-right">As shown on the image, the system includes a driver monitoring system located behind the steering wheel. It consists of an infrared camera with gesture recognition to detect gaze direction, whether the driver is speaking, and also whether the driver face is not detected due to steering wheel occlusions, whether his/her face is out of detection area, etc. Microphones are also located around the driver seat to ease speech recognition.</div>
+<div>The system includes a driver monitoring system located behind the steering wheel. It consists of an infrared camera with gesture recognition to detect gaze direction, whether the driver is speaking, and also whether the driver face is not detected due to steering wheel occlusions, whether his/her face is out of detection area, etc. Microphones are also located around the driver seat to ease speech recognition.</div>
 
-<br><br>
+<br>
 ## <a name="connections"></a>Connection configuration
 <div><img src="docs/connections.png" width="800" alt="Harmoware-HMI" class="image-right">The figure shows the connection of the different processing elements. 
 
@@ -49,7 +50,7 @@ The **Autoware** block consists on the vehicle localization, perception, path pl
 
 The **Vehicle control** block is the last mile connecting Autoware with the vehicle's steering, brake and acceleration. On our experiments we used a Toyota Prius and a ZMP control box.
 </div>
-<br><br>
+<br>
 
 ## <a name="install"></a>Installing
 The software includes:
@@ -118,12 +119,22 @@ how to start it?
 
 
 <br><br>
-## <a name="videos"></a>Videos
+## <a name="videos"></a>Press releases
+<img src="docs/news.png" width="900" alt="Press releases" class="image-right">
 
-1. Multimodal communication enabled autonomous vehicle
+### News
+NHK (2018.10.25)
+[車と対話型自動運転システム開発｜NHK 東海のニュース](https://www3.nhk.or.jp/tokai-news/20181025/0001539.html)
+
+Chukyo TV (2018.10.25)
+[声や身ぶりなどで車を自動運転、名古屋大などが共同開発](https://www2.ctv.co.jp/news/2018/10/25/27162/)
+
+
+### Videos
+Multimodal communication enabled autonomous vehicle
 [![Multimodal communication enabled autonomous vehicle](https://img.youtube.com/vi/Mesx4qgONqs/0.jpg)](https://www.youtube.com/watch?v=Mesx4qgONqs)
 <BR>
-2. マルチモーダル対話型自動運転
+マルチモーダル対話型自動運転
 [![マルチモーダル対話型自動運転](https://img.youtube.com/vi/EkVdZUEEFwM/0.jpg)](https://www.youtube.com/watch?v=EkVdZUEEFwM)
 
 
