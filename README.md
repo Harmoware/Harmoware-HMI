@@ -40,6 +40,17 @@ The following functions are implemented in our system:
 <div><img src="docs/driver-monitor.png" width="900" alt="Driver monitor" class="image-right">As shown on the image, the system includes a driver monitoring system located behind the steering wheel. It consists of an infrared camera with gesture recognition to detect gaze direction, whether the driver is speaking, and also whether the driver face is not detected due to steering wheel occlusions, whether his/her face is out of detection area, etc. Microphones are also located around the driver seat to ease speech recognition.</div>
 
 <br><br>
+## <a name="connections"></a>Connection configuration
+<div><img src="docs/connections.png" width="800" alt="Harmoware-HMI" class="image-right">The figure shows the connection of the different processing elements. 
+
+The **HMI** block consists on the voice processing and the gaze processing systems, each running on its own computer. Voice processing has a microphone as input and a visual feedback module to denote when the car has received a voice command and when the car is talking to the driver. Gaze processing is connected to the AISIN driver gesture recognition system, it also includes semantic 3D maps for gaze-to-object association.
+
+The **Autoware** block consists on the vehicle localization, perception, path planning and other modules. It connects to sensors such as Velodyne HDL-32E for localization, includes 3D maps for localization and vector maps (HD-maps) for path planning. We customized Autoware to interface with the HMI block through network sockets. Autoware runs on a separate computer.
+
+The **Vehicle control** block is the last mile connecting Autoware with the vehicle's steering, brake and acceleration. On our experiments we used a Toyota Prius and a ZMP control box.
+</div>
+<br><br>
+
 ## <a name="install"></a>Installing
 The software includes:
 
@@ -111,7 +122,7 @@ how to start it?
 
 1. Multimodal communication enabled autonomous vehicle
 [![Multimodal communication enabled autonomous vehicle](https://img.youtube.com/vi/Mesx4qgONqs/0.jpg)](https://www.youtube.com/watch?v=Mesx4qgONqs)
-
+<BR>
 2. マルチモーダル対話型自動運転
 [![マルチモーダル対話型自動運転](https://img.youtube.com/vi/EkVdZUEEFwM/0.jpg)](https://www.youtube.com/watch?v=EkVdZUEEFwM)
 
