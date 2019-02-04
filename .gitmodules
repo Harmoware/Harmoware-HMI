@@ -1,0 +1,3 @@
+[submodule "Autoware"]
+	path = Autoware
+	url = https://github.com/Harmoware/Autoware.git
