@@ -1,0 +1,119 @@
+﻿  Plugin_Julius.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\juliuslib.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\config-msvc-libjulius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\define.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\machines.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\util.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\tcpip.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\adin.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\mfcc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_defs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_param.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ptree.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\vocabulary.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ngram2.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\dfa.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\multi-gram.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\wchmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\trellis.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\graph.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\beam.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\search.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\misc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\jconf.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\callback.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\recog.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\global.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\extern.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Julius_Thread.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\juliuslib.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\config-msvc-libjulius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\define.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\machines.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\util.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\tcpip.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\adin.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\mfcc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_defs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_param.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ptree.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\vocabulary.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ngram2.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\dfa.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\multi-gram.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\wchmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\trellis.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\graph.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\beam.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\search.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\misc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\jconf.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\callback.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\recog.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\global.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\extern.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\plugin_julius\julius_thread.cpp(191): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: 'putenv' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\plugin_julius\julius_thread.cpp(193): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: 'putenv' の宣言を確認してください
+  Julius_Logger.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\juliuslib.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\config-msvc-libjulius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\define.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\machines.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\stddefs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\util.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\tcpip.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\adin.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\speech.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\mfcc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_defs.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_param.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\htk_hmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ptree.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\hmm_calc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\vocabulary.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\ngram2.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\sent\dfa.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\multi-gram.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\wchmm.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\trellis.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\graph.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\beam.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\search.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\misc.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\jconf.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\callback.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\recog.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\global.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\julius.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\speech\desktop\mmdagent-1.7\library_julius\include\julius\extern.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+     ライブラリ C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Plugins\Plugin_Julius.lib とオブジェクト C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Plugins\Plugin_Julius.exp を作成中
+  Plugin_Julius.vcxproj -> C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Plugins\Plugin_Julius.dll
+  Plugin_Julius.vcxproj -> C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Plugins\Plugin_Julius.pdb (Full PDB)
