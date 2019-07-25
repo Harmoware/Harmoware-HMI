@@ -1,0 +1,30 @@
+####
+#### Jconf file for English dictation for mobile (beta)
+####
+
+#### LM
+-d lang_m_en_US/eng_julius.lm.bin
+-v lang_m_en_US/eng_julius.dic
+
+#### AM
+-h phone_m_en_US/eng_clustered.mmf.ptm.all.julius
+-hlist phone_m_en_US/eng_tri_tied.list.ptm.bin
+-gshmm phone_m_en_US/eng_monophone.mmf.16mix.all.gshmm
+
+#### parameters
+-lmp  10 -5
+-lmp2 10 -5
+-iwsp
+-iwsppenalty -10.0
+-iwcd1 max
+-b 1000
+-n 7
+-output 1
+-spmodel "pau"
+-input       mic
+-rejectshort 700
+-rejectlong  8000
+-headmargin  300
+-tailmargin  240
+-zmeanframe
+-lv          1500

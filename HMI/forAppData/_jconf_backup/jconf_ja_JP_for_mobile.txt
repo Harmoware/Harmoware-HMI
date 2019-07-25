@@ -1,0 +1,27 @@
+####
+#### Jconf file for Japanese dictation for mobile
+####
+
+#### LM
+-d lang_m/web.60k.8-8.bingramv5.gz
+-v lang_m/web.60k.htkdic
+
+#### AM (PTM+GMS)
+-h phone_m/clustered.mmf.ptm.16mix.all.julius.binhmm
+-hlist phone_m/tri_tied.list.ptm.bin
+-gshmm phone_m/monophone.mmf.16mix.julius.gshmm
+
+#### parameters
+-lmp         12 -9
+-lmp2        12 -5
+-b           800
+-tmix        8
+-n           7
+-output      1
+-input       mic
+-rejectshort 700
+-rejectlong  8000
+-headmargin  300
+-tailmargin  240
+-zmeanframe
+-lv          1500

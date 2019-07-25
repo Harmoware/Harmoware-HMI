@@ -1,0 +1,4 @@
+-gram nakagawaHMI
+-C ../../hmm_ptm.jconf
+-input mic -demo
+-tailmargin 1500

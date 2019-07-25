@@ -1,0 +1,66 @@
+0	[右折]	u s e ts u
+1	[右]	m i g i
+2	[曲がる]	m a g a r u
+2	[曲がって]	m a g a q t e
+3	[IB館]	a i b i: k a N
+3	[野依記念館]	n o y o r i k i n e N k a N
+4	[行く]	i k u
+4	[行こう]	i k o:
+4	[行こう]	i k o u
+5	[行って]	i q t e
+6	[行きたい]	i k i t a i
+7	[今日]	k y o:
+7	[今日]	k y o u
+7	[今回]	k o N k a i
+8	[速度]	s o k u d o
+8	[スピード]	s u p i: d o
+9	[落とす]	o t o s u
+9	[上げる]	a g e r u
+9	[もどす]	m o d o s u
+10	[落として]	o t o sh i t e
+10	[上げて]	a g e t e
+10	[もどして]	m o d o sh i t e
+11	[進む]	s u s u m u
+12	[進んで]	s u s u N d e
+13	[走る]	h a sh i r u
+14	[走って]	h a sh i q t e
+15	[減速]	g e N s o k u
+16	[そこ]	s o k o
+16	[ここ]	k o k o
+16	[あそこ]	a s o k o
+16	[あれ]	a r e
+17	[あの]	a n o
+17	[その]	s o n o
+18	[建物]	t a t e m o n o
+19	[寄る]	y o r u
+20	[寄りたい]	y o r i t a i
+21	[寄って]	y o q t e
+22	[とめる]	t o m e r u
+23	[とめて]	t o m e t e
+23	[とまって]	t o m a q t e
+24	[車]	k u r u m a
+25	[発進]	h a s sh i N
+25	[出発]	sh u q p a t u
+26	[しよう]	sh i y o u
+27	[何]	n a n i
+28	[ですか]	d e s u k a
+29	[でしょう]	d e sh o u
+30	[ちょっと]	ch o q t o
+31	[ゆっくり]	y u q k u r i
+32	[よし]	y o sh i
+33	[お願い]	o n e g a i
+34	[します]	sh i m a s u
+35	[ください]	k u d a s a i
+36	[して]	sh i t e
+37	[まで]	m a d e
+38	[に]	n i
+39	[は]	w a
+40	[で]	d e
+41	[を]	o
+42	[はい]	h a i
+42	[うん]	u N
+43	[いいえ]	i: e
+43	[いいえ]	i i e
+43	[いや]	i y a
+44	[<s>]	silB
+45	[</s>]	silE

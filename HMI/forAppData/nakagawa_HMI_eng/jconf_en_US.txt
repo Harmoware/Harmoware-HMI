@@ -1,0 +1,13 @@
+####
+#### Jconf file for English dictation (beta)
+####
+
+#### LM
+-gram nakagawaHMI
+
+#### AM
+-h ../../model/phone_m_en_US/eng_clustered.mmf.16mix.all.julius
+-hlist ../../model/phone_m_en_US/eng_tri_tied.list.bin
+
+#### parameters
+-zmean -rejectshort 800
