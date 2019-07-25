@@ -1,0 +1,180 @@
+﻿  src\include\BoneController.h
+  src\include\FileBrowser.h
+  src\include\FreeTypeGL.h
+  src\include\LipSync.h
+  src\include\LogText.h
+  src\include\Menu.h
+  src\include\Message.h
+  src\include\MMDAgent.h
+  src\include\MMDAgent_utils.h
+  src\include\MotionStocker.h
+  src\include\Option.h
+  src\include\Plugin.h
+  src\include\PMDObject.h
+  src\include\Prompt.h
+  src\include\Render.h
+  src\include\ScreenWindow.h
+  src\include\Stage.h
+  src\include\TileTexture.h
+  src\include\Timer.h
+         19 個のファイルをコピーしました。
+  Timer.cpp
+  TileTexture.cpp
+  Stage.cpp
+  ScreenWindow.cpp
+  Render.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\render.cpp(162): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\render.cpp(193): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\render.cpp(1165): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  Prompt.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\prompt.cpp(600): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+  PMDObject.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\pmdobject.cpp(782): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\pmdobject.cpp(784): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  Plugin.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\plugin.cpp(114): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  Option.cpp
+  MotionStocker.cpp
+  MMDAgent_utils.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(487): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(489): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(554): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(564): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(568): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(574): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(628): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(669): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent_utils.cpp(703): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  MMDAgent.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(130): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1463): warning C4316: 'Stage': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1482): warning C4316: 'Render': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1518): warning C4316: 'PMDObject': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1383): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1402): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1410): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1418): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1430): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1459): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1475): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1969): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1827): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1829): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1833): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: 'strncat' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1845): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1847): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1849): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1870): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(1872): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(2012): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 'vsprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(2031): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 'vsprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(2325): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\mmdagent.cpp(2671): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+  Message.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\message.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\message.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\message.cpp(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\message.cpp(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\message.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+  Menu.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\menu.cpp(1031): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+  LogText.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\logtext.cpp(140): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 'vsprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\logtext.cpp(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' の宣言を確認してください
+  LipSync.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\lipsync.cpp(273): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\lipsync.cpp(289): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+  FreeTypeGL.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(669): warning C4838: 'int' から 'unsigned char' への変換には縮小変換が必要です
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(862): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(863): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(864): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(865): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(866): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\freetypegl.cpp(867): warning C4267: '=': 'size_t' から 'GLushort' に変換しました。データが失われているかもしれません。
+  FileBrowser.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(292): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(325): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(455): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(480): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(506): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(560): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(600): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(602): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(702): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(882): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\filebrowser.cpp(884): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  BoneController.cpp
+c:\users\speech\desktop\mmdagent-1.7\library_mmdagent\src\lib\bonecontroller.cpp(126): warning C4316: 'btQuaternion': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+  コードを生成中...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Library_MMDAgent.lib) does not match the Library's OutputFile property value (C:\Users\speech\Desktop\MMDAgent-1.7\Library_MMDAgent\lib\MMDAgent_D.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(Library_MMDAgent) does not match the Library's OutputFile property value (MMDAgent_D). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Library_MMDAgent.vcxproj -> C:\Users\speech\Desktop\MMDAgent-1.7\Debug\Library_MMDAgent.lib
